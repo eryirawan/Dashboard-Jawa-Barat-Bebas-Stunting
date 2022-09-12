@@ -34,6 +34,8 @@ Memberikan Dashboard yang informatif secara deskriptif mengenai gambaran daerah 
 
 ![Desktop-3](https://user-images.githubusercontent.com/102465817/189684161-709161c5-cd11-470e-82fd-053111a4a146.png)
 
+<img src="https://user-images.githubusercontent.com/102465817/189684161-709161c5-cd11-470e-82fd-053111a4a146.png" width="150" height="280">
+
 
 
 
