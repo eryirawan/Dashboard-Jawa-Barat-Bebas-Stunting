@@ -26,6 +26,13 @@ Memberikan Dashboard yang informatif secara deskriptif mengenai gambaran daerah 
 
 ![Jabar Bebas Stunting](https://user-images.githubusercontent.com/102465817/189682204-c85ba43a-a35d-4b8e-9b76-52c231f7dd58.jpg)
 
+### PROTOTYPE/MOCKUP
+
+![Desktop-1](https://user-images.githubusercontent.com/102465817/189684169-ea9f85fb-5bf4-44a6-b649-a0f27d8d1594.png)
+
+![Desktop-2](https://user-images.githubusercontent.com/102465817/189684148-f17ddf4f-5812-4465-8376-d9b9669c5494.png)
+
+![Desktop-3](https://user-images.githubusercontent.com/102465817/189684161-709161c5-cd11-470e-82fd-053111a4a146.png)
 
 
 
