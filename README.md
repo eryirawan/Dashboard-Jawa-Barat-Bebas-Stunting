@@ -32,7 +32,7 @@ Memberikan Dashboard yang informatif secara deskriptif mengenai gambaran daerah 
 
 ![Desktop-2](https://user-images.githubusercontent.com/102465817/189684148-f17ddf4f-5812-4465-8376-d9b9669c5494.png)
 
-<img src="https://user-images.githubusercontent.com/102465817/189684161-709161c5-cd11-470e-82fd-053111a4a146.png" width="750" height="750">
+<img src="https://user-images.githubusercontent.com/102465817/189684161-709161c5-cd11-470e-82fd-053111a4a146.png" width="700" height="750">
 
 
 
