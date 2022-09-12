@@ -33,6 +33,14 @@ Memberikan Dashboard yang informatif secara deskriptif mengenai gambaran daerah 
 
 ![Desktop-3](https://user-images.githubusercontent.com/102465817/189687251-4a2e952d-56fa-4197-a7d9-64097a9b1186.png)
 
+## TAMPILAN DASHBOARD
+
+### HALAMAN 1:
+
+![Dashboard 1](https://user-images.githubusercontent.com/102465817/189687755-d2ca4b96-aa05-49c9-a7f3-0d070b191f6b.png)
+
+
+
 
 
 
