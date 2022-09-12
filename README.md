@@ -43,7 +43,6 @@ Pada halaman pertama dashboard disajikan data TOP 10 kabupaten/kota, yang memili
 
 Pada pojok kanan atas halaman ini, diperlihatkan dua tulisan yaitu “Map” dan “Correlation”. Tulisan ini apabila di klik oleh cursor mouse akan membawa user kepada halaman Map yang berisi lebih detail jumlah kasus dan metric yang diinginkan, sementara correlation adalah halaman yang berisi hubungan antara kasus bayi Malnutrition dan Ibu Hamil dengan Anemia dengan ketersediaan tenaga kesehatan.
 
-
 ### HALAMAN 2:
 
 ![Dashboard 2](https://user-images.githubusercontent.com/102465817/189689004-d6d0e92e-84a9-42a7-96ec-3ff3eee8e9ea.png)
@@ -52,17 +51,42 @@ Pada halaman ke-2 ini adalah tampilan Map, terdapat informasi spasial dan juga b
 
 Fitur metrics disitu juga memperlihatkan lebih detail untuk metrics selain 3 kasus sebelumnya yaitu seperti Jumlah kelahiran bayi, Jumlah Ibu hamil, Jumlah Tenaga Kesehatan (Bidan, Dokter, Ahli Gizi, dan Kesehatan Masyarakat).  Pada chart di bawahnya terdapat ratio ibu hamil dan kelahiran bayi terhadap jumlah tenaga kesehatan yang terbagi beberapa tahun dan bisa dijabarkan secara detail menurut daerahnya, apabila user memilih salah satu daerah pada spatial map tersebut. Angka ratio tersebut menunjukan bahwa 1 orang tenaga kesehatan (bidan/dokter/ahli gizi/kesehatan masyarakat) menangani sejumlah ibu hamil dan kelahiran bayi pada wilayah tersebut.
 
+### HALAMAN 3:
+
+![Dashboard 3](https://user-images.githubusercontent.com/102465817/189690495-f0b3c460-19ad-4ac0-8ba7-e62889939c0f.png)
+
+Halaman 3 adalah tabel correlation (pearson) antara dua variabel, kedua variabel tersebut adalah korelasi antara metrics bayi malnutrisi dan ibu hamil anemia dengan jumlah tenaga kesehatan, serta bayi malnutrisi dengan Berat Bayi Lahir Rendah dan Ibu Hamil Anemia. Selain tabel perhitungan angka pearson correlation, ditampilkan juga chart scatter plot antara variabel bayi malnutrition dengan BBLR serta Ibu hamil  Anemia.
+
+Angka-angka pada tabel menunjukan angka yang positif dan negatif, pada angka positif apabila diatas angka 0,2 keatas dapat dikatakan correlation yang moderate positive relationship. Apabila angka diatas 0,4 dapat termasuk strong positive correlation. Sedangkan apabila angka-angka dalam tabel menunjukan angka yang negatif artinya terdapat correlation negative relationship.
 
 
+## ANALYSIS
+
+Dari korelasi antara bayi malnutrisi dengan tenaga kesehatan berdasarkan jenis profesinya,  jenis profesi bidan menunjukan angka korelasi tertinggi yaitu 0.38  atau dapat dikatakan jumlah tenaga kesehatan khususnya bidan, memiliki pengaruh positif moderat terhadap tinggi rendahnya bayi malnutrisi pertahunnya
+
+Kemudian korelasi antara ibu hamil dengan kondisi anemia dan tenaga kesehatan berdasarkan jenis profesinya,  jenis profesi bidan menunjukan angka korelasi sebesar 0.64. Artinya jumlah tenaga kesehatan khususnya bidan, memiliki pengaruh positif kuat terhadap tinggi rendahnya angka ibu hamil anemia.
 
 
+## CONCLUSION
+
+Dari grafik korelasi antara bayi malnutrisi dengan tenaga kesehatan berdasarkan profesinya, mayoritas  tidak menunjukan korelasi yang kuat. Maka dapat disimpulkan jumlah bayi malnutrisi dipengaruhi oleh tersedianya jumlah tenaga kesehatan, namun tidak secara signifikan. 
+
+Dari grafik korelasi antara Ibu hamil anemia dengan tenaga kesehatan berdasarkan profesinya, mayoritas  tidak menunjukan korelasi yang kuat. Maka dapat disimpulkan jumlah ibu hamil anemia dipengaruhi oleh tersedianya jumlah tenaga kesehatan, namun tidak secara signifikan mempengaruhi. hanya jenis profesi bidan yang menunjukan pengaruh kuat terhadap jumlah ibu hamil anemia, semakin tinggi jumlah ibu hamil anemia, semakin tinggi pula jumlah bidan yang tersedia pertahunnya.
 
 
+## DAFTAR PUSTAKA
 
+1. Peraturan Menteri Kesehatan nomor 1995/Menkes/XII/2010.
+2. UNICEF Conceptual Framework on the Determinants of Maternal and Child Nutrition. (2020). UNICEF-Nutrition-Strategy-2020-2030 Brief.
+3. International Food Policy Research Institute. (2016). 2016 Global Nutrition Report. IFPRI : Washington DC.
+4. Riset Kesehatan Dasar (Riskesdas). (2018). Badan Penelitian dan Pengembangan Kesehatan (Balitbangkes), Kementerian Kesehatan.
+5. https://databoks.katadata.co.id/datapublish/2022/07/22/prevalensi-balita-stunting-di-kabupaten-garut-tertinggi-se-jawa-barat-pada-2021.
 
+## DATA PENDUKUNG
 
-
-
+[User flow](https://miro.com/app/board/uXjVPbDf7GE=/?share_link_id=417264863117) 
+[Mockup/Prototype](https://www.figma.com/file/iLtQDPrLVwPd23vIoWaDyO/Untitled?node-id=0%3A1)
+[Dashboard](https://public.tableau.com/views/DashboardJabarBebasStunting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
