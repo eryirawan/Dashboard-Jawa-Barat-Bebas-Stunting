@@ -84,19 +84,6 @@ Dari grafik korelasi antara Ibu hamil anemia dengan tenaga kesehatan berdasarkan
 
 ## DATA PENDUKUNG
 
-[User flow](https://miro.com/app/board/uXjVPbDf7GE=/?share_link_id=417264863117) 
-[Mockup/Prototype](https://www.figma.com/file/iLtQDPrLVwPd23vIoWaDyO/Untitled?node-id=0%3A1)
-[Dashboard](https://public.tableau.com/views/DashboardJabarBebasStunting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. [User flow](https://miro.com/app/board/uXjVPbDf7GE=/?share_link_id=417264863117) 
+2. [Mockup/Prototype](https://www.figma.com/file/iLtQDPrLVwPd23vIoWaDyO/Untitled?node-id=0%3A1)
+3. [Dashboard](https://public.tableau.com/views/DashboardJabarBebasStunting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
