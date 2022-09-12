@@ -22,3 +22,15 @@ Memberikan Dashboard yang informatif secara deskriptif mengenai gambaran daerah 
 5. Membuat user flow dan hi fi prototype
 6. Membuat tableau dashboard
 
+### USERFLOW
+
+![Jabar Bebas Stunting](https://user-images.githubusercontent.com/102465817/189682204-c85ba43a-a35d-4b8e-9b76-52c231f7dd58.jpg)
+
+
+
+
+
+
+
+
+
