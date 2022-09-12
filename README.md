@@ -39,6 +39,36 @@ Memberikan Dashboard yang informatif secara deskriptif mengenai gambaran daerah 
 
 ![Dashboard 1](https://user-images.githubusercontent.com/102465817/189687755-d2ca4b96-aa05-49c9-a7f3-0d070b191f6b.png)
 
+Pada halaman pertama dashboard disajikan data TOP 10 kabupaten/kota, yang memiliki angka Bayi malnutrisi dan kasus ibu hamil tertinggi dan kabupaten yang memiliki indeks kesehatan terendah. Data 10 kabupaten/kota ini bisa disesuaikan dengan tahunnya. Pada keterangan All itu menunjukan jumlah pada Bayi Malnutrition, Ibu Hamil dengan Anemia, dan Rata-rata Indeks Kesehatan selama 3 tahun (2016-2018). Selanjutnya dapat dipilih berbeda-beda tahun antara 2016, 2017 atau 2018.
+
+Pada pojok kanan atas halaman ini, diperlihatkan dua tulisan yaitu “Map” dan “Correlation”. Tulisan ini apabila di klik oleh cursor mouse akan membawa user kepada halaman Map yang berisi lebih detail jumlah kasus dan metric yang diinginkan, sementara correlation adalah halaman yang berisi hubungan antara kasus bayi Malnutrition dan Ibu Hamil dengan Anemia dengan ketersediaan tenaga kesehatan.
+
+
+### HALAMAN 2:
+
+![Dashboard 2](https://user-images.githubusercontent.com/102465817/189689004-d6d0e92e-84a9-42a7-96ec-3ff3eee8e9ea.png)
+
+Pada halaman ke-2 ini adalah tampilan Map, terdapat informasi spasial dan juga beberapa metrics yang dapat dilihat berdasarkan filter  per tahun/per kabupaten. Pada halaman ini juga tersedia data rasio tenaga kesehatan dan ibu hamil/bayi lahir. Informasi spasial menunjukan data 3 kasus penyebab Stunting (BBLR, Bayi Malnutrition, dan Ibu Hamil dengan Anemia). Filter diatas spatial map, dapat diganti sesuai dengan tahun yang diinginkan yaitu 2016-2018.
+
+Fitur metrics disitu juga memperlihatkan lebih detail untuk metrics selain 3 kasus sebelumnya yaitu seperti Jumlah kelahiran bayi, Jumlah Ibu hamil, Jumlah Tenaga Kesehatan (Bidan, Dokter, Ahli Gizi, dan Kesehatan Masyarakat).  Pada chart di bawahnya terdapat ratio ibu hamil dan kelahiran bayi terhadap jumlah tenaga kesehatan yang terbagi beberapa tahun dan bisa dijabarkan secara detail menurut daerahnya, apabila user memilih salah satu daerah pada spatial map tersebut. Angka ratio tersebut menunjukan bahwa 1 orang tenaga kesehatan (bidan/dokter/ahli gizi/kesehatan masyarakat) menangani sejumlah ibu hamil dan kelahiran bayi pada wilayah tersebut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
